@@ -19,8 +19,8 @@ Nog dagelijks kunt u artikels terugvinden over autodiefstallen. Het lijkt mij ak
 Daarom vind ik het interessant om via deze thesis de veiligheid van onze voertuigen in de kijker te plaatsen. Zowel voor de gebruikers van dit transportmiddel als voor de ontwikkelaars.
 
 * Heeft men de afgelopen twee jaar vooruitgang geboekt op het vlak van antidiefstal bij wagens?
-- Men heeft zeker vooruitgang geboekt. Men is druk bezig met het verbeteren van de antidiefstal systemen. Maar laat één iets duidelijk zijn we zijn er nog niet. 
+ - Men heeft zeker vooruitgang geboekt. Men is druk bezig met het verbeteren van de antidiefstal systemen. Maar laat één iets duidelijk zijn we zijn er nog niet. 
 
 * Kan iemand met een beperkte kennis en budget, eenvoudig ongeoorloofd toegang verkrijgen tot een wagen die men dagelijks gebruikt en dus aanziet als veilig?
-- Uit deze thesis kunnen we afleiden dat het mogelijk is om als leek een AM/OOK sleutel met een rolling code systeem te omzeilen.
+ - Uit deze thesis kunnen we afleiden dat het mogelijk is om als leek een AM/OOK sleutel met een rolling code systeem te omzeilen.
 
