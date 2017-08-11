@@ -1,0 +1,1 @@
+sudo ./rpitx -m RFA -i am.rfa -f 433987 -l
