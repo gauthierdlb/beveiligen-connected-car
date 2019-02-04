@@ -1,4 +1,21 @@
 # Beveiliging van de connected car
+
+***####**** Translated Information ***####****
+"Securing the connected car" is a burning current topic. It is extremely important for everyone that our car is safe. Are the various car brands aware of the current problem and what are they doing about it?
+
+The research is divided into two parts. On the one hand an information research where I explain the basics and the background of the car. More specifically:
+
+Which technologies are used in a car and how can they be misused in theory? What are the emerging technologies and how could they be exploited? Then I briefly explain a few threat models and the DREAD rating system. Finally, I describe which attacks currently exist and how they proceed.
+
+On the other hand, in the second part I try to perform an attack on a vehicle in an experimental way. The underlying question is it possible to access unauthorized access to a vehicle with a basic knowledge of programming and a limited budget? Which hacks have received attention in the past year and what exactly do they contain?
+
+It is indeed possible to carry out an attack on a vehicle. Specifically, I did this on a Renault van. People are working hard to improve the safety of cars against theft. Modern cars that are currently rolling off the production line are already a lot more secure than those of a few years ago. With the phenomenon "the internet of things" manufacturers can make updates easier and faster for their cars. For example, the car does not have to be taken to a garage to get a software update, but can do so via the wireless network in the car. During the experimental research I specifically focused on performing an attack on the radio transmitter (key) of the car. There are still dozens of subfields that require further research such as the PKES system in cars. General decision: in recent years, the car sector has already made progress on safety and theft prevention. More people are starting to work online and in group to share such vulnerabilities. Nevertheless, it is still a fact that too few people are aware of the weaknesses of their car.
+
+You can still find articles about car theft every day. It seems unfortunate to know that someone with bad intentions can just open your car or drive it yourself. That is why I find it interesting to place the safety of our vehicles in the spotlight through this thesis. Both for the users of this means of transport and for the developers.
+
+***####**** End Of Translation ***####****
+
+
 “Securing the connected car” is een brandend actueel onderwerp. Het is voor iedereen van uiterst belang dat onze wagen veilig is. Zijn de verschillende automerken op de hoogte van de huidige problematiek en wat doen ze eraan?
 
 Het onderzoek is opgedeeld in twee delen. Enerzijds een informatieonderzoek waar ik de basis en de achtergrond van de wagen uit de doeken doe. Meerbepaald:
